@@ -17,7 +17,7 @@ See https://decomp.dev/api for an API overview.
 
 A work-in-progress decompilation of DJ Hero 2. The PC port of the game will be worked on when the game has been decompiled unless stated otherwise.
 
-**Progress: 0.00% Decompiled**
+**Progress: 0.00% Decompiled** (Decomp work has not been imported to this repo yet)
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
 
