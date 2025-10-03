@@ -1,0 +1,10 @@
+# See config.example.yml for documentation.
+name: main
+object_base: orig/SWBE52
+object: sys/main.dol
+hash: fddd276af5b30c8f48db889327cbb8c2ea1d2535
+symbols: config/SWBE52/symbols.txt
+splits: config/SWBE52/splits.txt
+# Change this to match the linker version.
+# See config.example.yml for a list.
+mw_comment_version: 11
