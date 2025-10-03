@@ -15,7 +15,9 @@ See https://decomp.dev/api for an API overview.
 [Data Progress]: https://decomp.dev/HyperHaxStudios/djh2.svg?mode=shield&measure=data&label=Data
 [progress]: https://decomp.dev/HyperHaxStudios/djh2
 
-A work-in-progress decompilation of DJ Hero 2.
+A work-in-progress decompilation of DJ Hero 2. The PC port of the game will be worked on when the game has been decompiled unless stated otherwise.
+
+**Progress: 0.00% Decompiled**
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
 
